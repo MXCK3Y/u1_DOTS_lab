@@ -32,3 +32,4 @@ allBalls.forEach (ball => {
 //             if (score > 99) {win.style.opacity = 1 }
 //     })
 // }
+
